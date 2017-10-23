@@ -1,4 +1,4 @@
-var Fruits = { "Bob" : [
+/*var Fruits = { "Bob" : [
     {"Fruit" : "Apples", "Serving_Size" : "1 Medium", "Calories" : "80", "Carbs" : "22g", "Protein" : "0g", "Fibre" : "5g", "Fat" : "0g", "Sodium" : "0mg"}, 
     {"Fruit" : "Peaches", "Serving_Size" : "1 Medium", "Calories" : "40", "Carbs" : "10g", "Protein" : "0.06g", "Fibre" : "1.5g", "Fat" : "0g", "Sodium" : "0mg"},
     {"Fruit" : "Nectarines", "Serving_Size" : "1 Medium", "Calories" : "70", "Carbs" : "16g", "Protein" : "1g", "Fibre" : "3g", "Fat" : "1g", "Sodium" : "0mg"},
@@ -44,4 +44,4 @@ $("#opt9").click(function(){optNo=8;DisplayInfo()});
 function DisplayInfo()
 {
     $("#Disp").text(Serving_Size[optNo])
-}
+}*/
